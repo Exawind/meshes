@@ -2,6 +2,7 @@
 * text=auto
 
 # denote all binary files
+*.so binary
 *.g binary
 *.g.* binary
 *.exo binary
